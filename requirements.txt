@@ -7,7 +7,6 @@ django-distill==3.2.4
 django-environ==0.11.2
 djangorestframework==3.14.0
 idna==3.7
-mysqlclient==2.2.0
 Pillow==10.1.0
 pytz==2023.3.post1
 requests==2.32.3
